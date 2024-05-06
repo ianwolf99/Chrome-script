@@ -30,7 +30,7 @@ This Bash script provides a simple interface to execute various commands for Goo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ianwolf99/chrome-script.git
+   git clone https://github.com/ianwolf99/Chrome-script.git
    ```
 
 2. Navigate to the repository directory:
